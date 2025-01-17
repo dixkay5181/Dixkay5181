@@ -2,7 +2,7 @@
 
 ## Discuss one challenge you overcame during your academic development. What was the challenge, was it technical, nontechnical, or both, and how did you overcome it?
 
-When I was younger in elementary school, I had a really hard time learning to multiply bigger numebrs than twelve together by hand. I ended up struggling until my teacher pointed out different way for me to multiply that finally made sence for me. I ended up practicing it day and night to perfection and teaching my family how to do it to prove I was good at it.
+During college, my biggest challenge has been time management and getting used to putting more effort into my studies. I've since learned how to conquer these issues by completing things in small steps everyday so I can be successful.
 
 ## Discuss a situation where you worked with a team. How would you describe yourself as a teammate? Where can you improve your team skills? Be specific.
 
