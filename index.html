@@ -5,31 +5,29 @@
           box-sizing: border-box;
           background-color: rgb(23, 30, 42);
         }
+
+        body {
+            margin: 0;
+            display: flex;
+            overflow: hidden;
+        }
         
         /* Create two equal columns that floats next to each other */
         .column {
-          float: left;
           width: 50%;
-          padding: 10px;
+          top: 0;
+          padding: 3%; */
           position: sticky;
+          overflow: hidden;
         }
         .column2 {
-            /* display:inline-block; */
-            height: 100vh;
-            float: right;
             width: 50%;
-            padding: 10px;
-            /* overflow-y: hidden; */
+            padding: 3%; */
+            overflow-y: auto;
             color:rgb(209, 244, 250);
             background-color: rgb(12, 56, 61);
         }
         
-        /* Clear floats after the columns */
-        .row:after {
-          content: "";
-          display: table;
-          clear: both;
-        }
 
         /* formatting for the circle*/
         img {
@@ -48,7 +46,7 @@
         } 
     </style>
 
-    <div class="row">
+    <body>
     <div class="column">
         <h1 style="color:rgb(209, 244, 250);">Kayla Nicole Dixon</h1>
         <img src="https://images.pexels.com/photos/736230/pexels-photo-736230.jpeg" alt="pink rose" style="width:250px">
@@ -96,5 +94,5 @@
         <p style="color:rgb(209, 244, 250);">Principles of Cybersecurity</p>
         <p style="color:rgb(209, 244, 250);">A+</p>
     </div>
-    </div>
+    </body>
 </html>
