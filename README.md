@@ -29,3 +29,5 @@ To â€œincrease the influential and meaningful participation of girls and womenâ€
 
 I live out in the country so there wasn't a lot of interenet around me as I was growing up even when everyone else seemed to have it at their house. One way I could help my comminty is by working with the few internet providers near me to help spread it towards other parts of my community that have no internet still. I could also help teach those how to use technology better. Not everyone is very tech savvy where I live so I could use my skills to teach other to be better at using more advanced technology.
 
+Link to Senior Project
+https://github.com/dixkay5181/MusicEditor2.0v1
